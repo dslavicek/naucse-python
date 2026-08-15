@@ -27,7 +27,8 @@ Vyzkoušej si to. Za „zobáčky“ napiš `whoami` a zmáčkni Enter:
 ```pycon
 >>> whoami
 Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
+  File "<python-input-0>", line 1, in <module>
+    whoami
 NameError: name 'whoami' is not defined
 ```
 
