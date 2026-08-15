@@ -5,6 +5,7 @@ dependencies = [
     "naucse>=0.5.3",
     "naucse-render>=2.0",
     "pygments-pytest>=2.5.0",
+    "mistune==3.0.*",
 ]
 
 [tool.poetry]
