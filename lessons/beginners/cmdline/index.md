@@ -272,15 +272,12 @@ C:\Users\helena\Desktop\zkouska
 
 ### Kopírování z příkazové řádky
 
-Na **Linuxu** vyber text myší a pak buď:
+Na **Linuxu** nebo **Winwodsu** vyber text myší a pak buď:
 * pravým tlačítkem myši otevři menu a vyber *Kopírovat* nebo *Copy*, nebo
 * zmáčkni <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>.
   (Pozor, v příkazové řádce musíš použít navíc Shift.)
 
 Na **macOS** vyber text myší a pak stiskni <kbd>⌘ Command</kbd>+<kbd>C</kbd>.
-
-Na **Windows** v menu příkazové řádky (ikonce vlevo nahoře) vyber
-*Edit* → *Mark*, text vyber myší a zkopíruj pomocí <kbd>Enter</kbd>.
 
 ### Otevření v prohlížeči souborů
 
@@ -312,7 +309,7 @@ je ale občas jiné než v ostatních programech:
 
 * Linux: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd>
 * macOS: <kbd>⌘ Command</kbd>+<kbd>V</kbd>
-* Windows: Menu *Edit* → *Paste*
+* Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd> neo Menu *Edit* → *Paste*
 
 > [note]
 > Pokud jsou ve jménu mezery nebo jiné speciální znaky jako `*#$%^()><;"?`,
