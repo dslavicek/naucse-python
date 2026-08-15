@@ -10,14 +10,14 @@ Teď se může stát několik různých věcí:
 2. Zobrazí se ti text podobný tomuto níže?
 ```plain
 > python
-Python 3.8.1 (...)
+Python 3.14.1 (...)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 To je dobrá zpráva! Ještě si zkontroluj, jakou verzi máš nainstalovanou
 (např.`Python 3.11.2` je `3.11`, `Python 3.8.1` je `3.8` atd.).
 Třetí číslo za tečkou není tady podstatné.
-  - Je verze `3.6` nebo novější? Výborně, máš instalaci hotovou!
+  - Je verze `3.10` nebo novější? Výborně, máš instalaci hotovou!
   Okénko s příkazovou řádkou můžeš zavřít.
   Až ho budeš znovu potřebovat, můžeš otevřít nové.
   Pokračuj dále [Nastavením prostředí]({{ lesson_url('beginners/venv-setup') }}).

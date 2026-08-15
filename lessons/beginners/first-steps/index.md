@@ -13,7 +13,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 Příkaz vypíše několik informací. Z prvního řádku se můžeš ujistit, že používáš Python 3.
-(Verze by měla být `3.6` nebo vyšší. Vidíš-li číslo jako `2.7.11`, něco je špatně – popros o radu kouče.)
+(Verze by měla být `3.10` nebo vyšší. Vidíš-li číslo jako `2.7.11`, něco je špatně – popros o radu kouče.)
 Další řádek je informační: Python má k dispozici návody a informace sám o sobě,
 ale jsou psané v angličtině a pro trochu pokročilejší publikum.
 

@@ -16,14 +16,14 @@ Pak zadej následující příkaz a Python bude nainstalovaný:
 $ brew install python3
 ```
 
-Zkontroluj si, že máš verzi 3.6 nebo vyšší:
+Zkontroluj si, že máš verzi 3.10 nebo vyšší:
 
 ```console
 $ python3 --version
 ```
 
-Objeví-li se „Python“ a číslo verze (např. `Python 3.6.6`)
-a verze je 3.6 nebo vyšší, máš nainstalováno.
+Objeví-li se „Python“ a číslo verze (např. `Python 3.10.2`)
+a verze je 3.10 nebo vyšší, máš nainstalováno.
 Jinak je něco špatně;
 {% if var('coach-present') -%}
 poraď se s koučem.
