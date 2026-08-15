@@ -26,6 +26,8 @@ vychytávky mají dvě nevýhody:
   pomoct míň lidí, a
 * z příkazové řádky se dá jednoduše kopírovat text, což zjednodušuje
   spolupráci přes e-mail nebo chat.
+* pokud se naučíme postup řešení nějakého problému přes příkazovou řádku,
+  můžeme postup obvykle snadno automatizovat skriptem.
 
 I když příkazová řádka možná není úplně nejjednodušší způsob jak
 s programováním začít,
