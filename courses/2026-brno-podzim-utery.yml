@@ -208,9 +208,12 @@ plan:
     url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=def
     type: homework
 
-- slug: def
+- slug: rep
   title: 'Opakování'
   date: 2026-10-27
+  materials:
+  - title: Žádné nové materiály - zopakujte si látku z předchozích lekcí
+    url: null
 
 - slug: exc
   title: 'Chyby a moduly'
