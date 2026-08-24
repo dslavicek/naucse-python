@@ -88,7 +88,7 @@ objeví, i když vyjde číslo celé:
 ```
 
 Občas se hodí použít dělení se zbytkem, kdy výsledek zůstane jako celé číslo.
-Na to má Python operátory `//` (podíl) a `%` (zbytek):
+Na to má Python operátory `//` (podíl) a `%` (zbytek, neboli modulo):
 
 ``` pycon
 >>> 5 // 2
