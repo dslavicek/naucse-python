@@ -62,8 +62,8 @@ plan:
   - title: Tahák na klávesnici (PDF)
     url: https://pyvec.github.io/cheatsheets/keyboard/keyboard-cs.pdf
     type: cheatsheet
-  - title: 'Projekty (✊✌✋)'
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=preparation
+  - title: 'Projekty (✊✌✋) - odkaz bude doplněn'
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=preparation
     type: homework
 
 - slug: expressions
@@ -95,8 +95,8 @@ plan:
   - title: Další odkazy
     url: null
 
-  - title: 'Projekty (✊✌✋)'
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=expressions
+  - title: 'Projekty (✊✌✋) - odkaz bude doplněn'
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=expressions
     type: homework
 
 - slug: loops
@@ -129,8 +129,8 @@ plan:
   - title: Tahák na užitečné funkce (PDF)
     url: https://pyvec.github.io/cheatsheets/basic-functions/basic-functions-cs.pdf
     type: cheatsheet
-  - title: 'Projekty (✊✌✋)'
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=loops
+  - title: 'Projekty (✊✌✋) - odkaz bude doplněn'
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=loops
     type: homework
 
 - slug: str
@@ -168,8 +168,8 @@ plan:
   - title: Řetězcový tahák (PDF)
     url: https://pyvec.github.io/cheatsheets/strings/strings-cs.pdf
     type: cheatsheet
-  - title: 'Projekty (✊✌✋)'
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=str
+  - title: 'Projekty (✊✌✋) - odkaz bude doplněn'
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=str
     type: homework
 
 
@@ -204,8 +204,8 @@ plan:
 
   - title: Python Tutor
     url: http://pythontutor.com/visualize.html#mode=edit
-  - title: "Projekty"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=def
+  - title: "Projekty - odkaz bude doplněn"
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=def
     type: homework
 
 - slug: rep
@@ -241,8 +241,8 @@ plan:
   - title: Výjimkový tahák (PDF)
     url: https://pyvec.github.io/cheatsheets/exceptions/exceptions-cs.pdf
     type: cheatsheet
-  - title: "Projekty (×○×○)"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=exc
+  - title: "Projekty (×○×○) - odkaz bude doplněn"
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=exc
     type: homework
 
 
@@ -271,8 +271,8 @@ plan:
   - title: Další odkazy
     url: null
 
-  - title: "Projekty (✕✕✕)"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=test
+  - title: "Projekty (✕✕✕) - odkaz bude doplněn"
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=test
     type: homework
 
 
@@ -302,8 +302,8 @@ plan:
   - title: Tahák na seznamy (PDF)
     url: https://pyvec.github.io/cheatsheets/lists/lists-cs.pdf
     type: cheatsheet
-  - title: "Projekty – [\U0001f436\U0001f431\U0001f430\U0001f40d]"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=list
+  - title: "Projekty – [\U0001f436\U0001f431\U0001f430\U0001f40d] - odkaz bude doplněn"
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=list
     type: homework
 
 
@@ -331,8 +331,8 @@ plan:
   - title: Další odkazy
     url: null
 
-  - title: Projekty (⚔️)
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=file
+  - title: Projekty (⚔️) - odkaz bude doplněn
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=file
     type: homework
 
 
@@ -362,6 +362,6 @@ plan:
   - title: Slovníkový tahák (PDF)
     url: https://pyvec.github.io/cheatsheets/dicts/dicts-cs.pdf
     type: cheatsheet
-  - title: "Projekty (💾)"
-    url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=dict
+  - title: "Projekty (💾) - odkaz bude doplněn"
+    # url: https://projekty.pyladies.cz/session?course=pyladies-2026-brno-jaro-utery&session=dict
     type: homework
