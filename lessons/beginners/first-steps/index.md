@@ -13,7 +13,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 Příkaz vypíše několik informací. Z prvního řádku se můžeš ujistit, že používáš Python 3.
-(Verze by měla být `3.6` nebo vyšší. Vidíš-li číslo jako `2.7.11`, něco je špatně – popros o radu kouče.)
+(Verze by měla být `3.11` nebo vyšší. Vidíš-li číslo jako `2.7.11`, něco je špatně – popros o radu kouče.)
 Další řádek je informační: Python má k dispozici návody a informace sám o sobě,
 ale jsou psané v angličtině a pro trochu pokročilejší publikum.
 
@@ -27,7 +27,8 @@ Vyzkoušej si to. Za „zobáčky“ napiš `whoami` a zmáčkni Enter:
 ```pycon
 >>> whoami
 Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
+  File "<python-input-0>", line 1, in <module>
+    whoami
 NameError: name 'whoami' is not defined
 ```
 
@@ -87,7 +88,7 @@ objeví, i když vyjde číslo celé:
 ```
 
 Občas se hodí použít dělení se zbytkem, kdy výsledek zůstane jako celé číslo.
-Na to má Python operátory `//` (podíl) a `%` (zbytek):
+Na to má Python operátory `//` (podíl) a `%` (zbytek, neboli modulo):
 
 ``` pycon
 >>> 5 // 2
