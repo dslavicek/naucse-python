@@ -272,7 +272,7 @@ C:\Users\helena\Desktop\zkouska
 
 ### Kopírování z příkazové řádky
 
-Na **Linuxu** nebo **Winwodsu** vyber text myší a pak buď:
+Na **Linuxu** nebo **Windows** vyber text myší a pak buď:
 * pravým tlačítkem myši otevři menu a vyber *Kopírovat* nebo *Copy*, nebo
 * zmáčkni <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>.
   (Pozor, v příkazové řádce musíš použít navíc Shift.)
